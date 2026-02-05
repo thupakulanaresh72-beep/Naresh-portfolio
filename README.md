@@ -1,39 +1,45 @@
-# Naresh Thupakula – Python Developer (Beginner)
+# Naresh Thupakula – Python Developer
 
 ## About Me
-I am a beginner Python developer and a student.
-I am currently learning Python fundamentals and have completed topics up to lists.
-My goal is to become a Python developer by building strong basics and real projects.
+I am a Python developer and a student with a strong foundation in Python programming.
+I have completed Python fundamentals and learned concepts up to Object-Oriented Programming (OOP).
 
-I am passionate about learning programming step by step and improving my problem-solving skills.
+My goal is to become a professional Python developer by building real-world projects and continuously improving my coding and problem-solving skills.
 
-## What I Am Learning Now
-- Python basics
+## Python Concepts I Have Learned
+- Python basics and syntax
 - Variables and data types
-- Conditional statements (if, else)
+- Conditional statements (if, elif, else)
 - Loops (for, while)
-- Lists and list operations
+- Lists, Tuples, Sets, and Dictionaries
+- Functions
+- File handling (basic)
+- Object-Oriented Programming (OOP)
+  - Classes and objects
+  - Constructors
+  - Methods
+  - Inheritance (basic)
 
 ## Skills
-- Python (Beginner – up to Lists)
-- Logical thinking
-- Problem solving (basic level)
-- Git & GitHub (Beginner)
+- Python programming (up to OOP level)
+- Logical and problem-solving skills
+- Writing clean and structured code
+- Git & GitHub (basic)
 
 ## Practice Work
-- Simple Python programs
-- List operations (add, remove, access elements)
-- Small logic-based problems using loops and conditions
+- Programs using loops and conditions
+- Data structure handling
+- Function-based programs
+- OOP-based mini programs
 
 ## Future Learning Plan
-- Functions in Python
-- Tuples, Sets, Dictionaries
-- File handling
-- Object-Oriented Programming (OOP)
-- Mini Python projects
+- Advanced OOP
+- Exception handling
+- Databases
+- Real-world Python projects
 
 ## Career Goal
-To become a professional Python developer and work on real-world applications.
+To work as a Python developer and contribute to real-world software applications.
 
 ## Contact
 - Email: thupakulanaresh72@gmail.com
